@@ -11,3 +11,5 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [NCP Network](https://www.notion.so/NCP-Network-2795cf967b1b80818c5ac13f4950b64f?source=copy_link)
 - [NCP Scalability and Global Service](https://www.notion.so/27a5cf967b1b8055ba5ef76a55b499d2?source=copy_link)
 - [Storage Services](https://www.notion.so/Storage-27d5cf967b1b80adae42c6c6ad9ce990?source=copy_link)
+- [Database Services](https://www.notion.so/Database-27e5cf967b1b80afb41af106d823b377?source=copy_link)
+- [Management](https://www.notion.so/Management-27e5cf967b1b80e5a91df499af9d1a4c?source=copy_link)
